@@ -30,3 +30,5 @@ We’re going to make a Body Mass Index Calculator inspired by the beautiful des
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+BMI Calculator Screen
+![99402217-ed257980-290a-11eb-84af-a9793d242388](https://user-images.githubusercontent.com/72295827/99668032-0bca6400-2a22-11eb-997e-f97583ab0f6f.png)
